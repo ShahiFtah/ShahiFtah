@@ -1,3 +1,5 @@
+![Min GIF](Bilde/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
+
 ## Hi, I'm Shahi 👋
 
 I'm a Computer Science student @ Institute of Informatics at the University of Oslo
