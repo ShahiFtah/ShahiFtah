@@ -18,6 +18,7 @@ I'm a Computer Science student @ Institute of Informatics at the [University of 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShahiFtah/ShahiFtah/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ShahiFtah/ShahiFtah/output/github-snake.svg" />
 </picture>
+
 -->
 
 <!--
