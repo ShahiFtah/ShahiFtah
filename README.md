@@ -35,12 +35,68 @@ I focus on building clean, scalable solutions and continuously improving my skil
 ### 🌐 Web & Databases  
 ![My Skills](https://skillicons.dev/icons?i=html,css,mysql)
 
-### ☁️ Cloud & Security  
-![Skills](https://skillicons.dev/icons?i=gcp)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+# ☁️ Cloud & Security  
+![GCP](https://skillicons.dev/icons?i=gcp) ![JWT](https://skillicons.dev/icons?i=jwt)
 
 ### 🛠️ Tools & Platforms  
-![Skills](https://skillicons.dev/icons?i=git,github,windows)
-![Adobe](https://skillicons.dev/icons?i=ps,ai)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Windows](https://skillicons.dev/icons?i=windows)
+![Adobe](https://skillicons.dev/icons?i=ps,ai) ![Canva](https://skillicons.dev/icons?i=canva)
 
+## 📂 Featured Projects  
+Here are some selected projects showcasing my skills in **software development, backend systems, web, and mobile applications**.  
+Each project highlights clean code, real-world problem solving, and scalable design.
+
+### ☀️ Sunify_SolcelleApp  
+**Type:** Mobile / Android  
+**Tech stack:** Kotlin, Android Studio  
+**What it does:** Tracks solar energy production for users.  
+**Highlights:**  
+- Designed user-friendly interface with real-time data  
+- Implemented energy tracking and reporting features  
+- Focused on performance and reliability  
+
+🔗 Repository: [Sunify_SolcelleApp](https://github.com/ShahiFtah/Sunify_SolcelleApp)
+
+### 🔢 Sorting-Algorithm  
+**Type:** Backend / Algorithms  
+**Tech stack:** Python  
+**What it does:** Implements various sorting algorithms for learning and testing.  
+**Highlights:**  
+- Covers multiple algorithms (bubble, merge, quicksort, etc.)  
+- Focused on readability, efficiency, and educational value  
+- Ideal for demonstrating algorithmic thinking  
+
+🔗 Repository: [Sorting-Algorithm](https://github.com/ShahiFtah/Sorting-Algorithm)
+
+### 🌊 AquaFlow  
+**Type:** Web / Data Visualization  
+**Tech stack:** TypeScript, Node.js, Git  
+**What it does:** Visualizes water flow sensor data with interactive charts.  
+**Highlights:**  
+- Built scalable and modular code for dynamic visualizations  
+- Focused on performance and maintainability  
+- Ideal for data-driven decision making  
+
+🔗 Repository: [AquaFlow](https://github.com/ShahiFtah/AquaFlow)
+
+### 🕹️ MyOwnFlappyBird  
+**Type:** Web / Game  
+**Tech stack:** TypeScript, HTML, CSS, Git  
+**What it does:** Recreates the classic Flappy Bird game with responsive UI.  
+**Highlights:**  
+- Implemented smooth game physics and scoring system  
+- Designed clean, modular, and readable code  
+- Focused on user experience and interactivity  
+
+🔗 Repository: [MyOwnFlappyBird](https://github.com/ShahiFtah/MyOwnFlappyBird)
+
+### 📝 Note-app  
+**Type:** Web / Productivity  
+**Tech stack:** TypeScript, HTML, CSS  
+**What it does:** A simple note-taking app with persistent local storage.  
+**Highlights:**  
+- Built responsive, dynamic UI for quick note management  
+- Implemented local storage for data persistence  
+- Focused on clean UX and maintainable structure  
+
+🔗 Repository: [Note-app](https://github.com/ShahiFtah/Note-app)
