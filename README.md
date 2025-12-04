@@ -35,13 +35,14 @@ I focus on building clean, scalable solutions and continuously improving my skil
 ### 🌐 Web & Databases  
 ![My Skills](https://skillicons.dev/icons?i=html,css,mysql)
 
-# ☁️ Cloud & Security  
+### ☁️ Cloud & Security  
 ![GCP](https://skillicons.dev/icons?i=gcp) ![JWT](https://skillicons.dev/icons?i=jwt)
 
 ### 🛠️ Tools & Platforms  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Windows](https://skillicons.dev/icons?i=windows)
 ![Adobe](https://skillicons.dev/icons?i=ps,ai) ![Canva](https://skillicons.dev/icons?i=canva)
 
+<!--
 ## 📂 Featured Projects  
 Here are some selected projects showcasing my skills in **software development, backend systems, web, and mobile applications**.  
 Each project highlights clean code, real-world problem solving, and scalable design.
@@ -100,3 +101,18 @@ Each project highlights clean code, real-world problem solving, and scalable des
 - Focused on clean UX and maintainable structure  
 
 🔗 Repository: [Note-app](https://github.com/ShahiFtah/Note-app)
+-->
+
+## 📂 Featured Projects
+
+Here are some selected projects showcasing my skills in **software development, backend systems, web, and mobile applications**:
+
+| Project | Type | Tech Stack | Highlights | Repo |
+|---------|------|------------|------------|------|
+| ☀️ **Sunify_SolcelleApp** | Mobile / Android | ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Android](https://skillicons.dev/icons?i=android) | 🚀 User-friendly interface, ⚡ Real-time energy tracking, 🔧 Performance-focused | [GitHub](https://github.com/ShahiFtah/Sunify_SolcelleApp) |
+| 🔢 **Sorting-Algorithm** | Backend / Algorithms | ![Python](https://skillicons.dev/icons?i=python) | 🔍 Multiple sorting algorithms, 📚 Readable & efficient, 🎯 Algorithm practice | [GitHub](https://github.com/ShahiFtah/Sorting-Algorithm) |
+| 🌊 **AquaFlow** | Web / Data Visualization | ![TypeScript](https://skillicons.dev/icons?i=ts) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Git](https://skillicons.dev/icons?i=git) | 📊 Interactive charts, 🔧 Modular code, ⚡ Scalable & maintainable | [GitHub](https://github.com/ShahiFtah/AquaFlow) |
+| 🕹️ **MyOwnFlappyBird** | Web / Game | ![TypeScript](https://skillicons.dev/icons?i=ts) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Git](https://skillicons.dev/icons?i=git) | 🕹 Smooth game physics, 🧩 Modular code, 🎨 Clean UI | [GitHub](https://github.com/ShahiFtah/MyOwnFlappyBird) |
+| 📝 **Note-app** | Web / Productivity | ![TypeScript](https://skillicons.dev/icons?i=ts) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) | 🗂 Responsive UI, 💾 Local storage, ⚡ Clean UX | [GitHub](https://github.com/ShahiFtah/Note-app) |
+
+
