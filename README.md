@@ -10,8 +10,8 @@
 
 
 <h1 align="center">Hi, I'm Shahi 👋</h1>
-<h3 align="center">Computer Science Student | Software Developer | Tech Enthusiast</h3>
-
+<h2 align="center">Computer Science graduate & Master's student in Entrepreneurship and Innovation</h3>
+<h3 align="center">Management | Technology, Digital Transformation & AI | Business & Innovation</h3>
 <p align="center">
 📍 Oslo, Norway • 🎓 University of Oslo (UiO)
 </p>
